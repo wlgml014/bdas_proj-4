@@ -1,1 +1,3 @@
-
+- woFSandAE: without Feature Selection and AutoEncoder
+- wFSwoAE: with Feature Selection without AutoEncoder
+- wFSandAE: with Feature Selection and AUtoEncoder
